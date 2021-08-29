@@ -16,6 +16,6 @@ Learning more about devise authenticator (https://github.com/heartcombo/devise).
 
 * Install Rails if not exists: `gem install rails`
 
-* Install dependencies? `bundle install`
+* Install dependencies: `bundle install`
 
 * Initialize server: `rails s`
