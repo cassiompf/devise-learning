@@ -1,24 +1,21 @@
-# README
+# devise-learning
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning more about devise authenticator (https://github.com/heartcombo/devise).
 
-Things you may want to cover:
+* If you are using rvm, type: `rvm use`
 
-* Ruby version
+* Ruby version: `3.0.2`
 
-* System dependencies
+* System dependencies: `sqlite3`
 
-* Configuration
+* Configuration: create `master.key` and `credentials.yml.enc`
 
-* Database creation
+* Database creation: `rails db:create`
 
-* Database initialization
+* Database initialization: `rails db:migration`
 
-* How to run the test suite
+* Install Rails if not exists: `gem install rails`
 
-* Services (job queues, cache servers, search engines, etc.)
+* Install dependencies? `bundle install`
 
-* Deployment instructions
-
-* ...
+* Initialize server: `rails s`
